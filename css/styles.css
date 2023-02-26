@@ -1,0 +1,10 @@
+  body{
+    background-color:blanchedalmond
+  }
+  hr{
+    width: 86%;
+    border-style: dotted none none;
+    border-width: 10px;
+    background-color:blueviolet
+  }
+</style>
